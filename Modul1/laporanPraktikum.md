@@ -249,7 +249,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/modul1/output/output1.png)
+![Screenshot Output Unguided 1_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul1/output/output1.png)
 
 
 Program ini digunakan untuk menghitung dua bilangan bertipe float, kemudian program akan menghitung penjumlahan, pengurangan, perkalian, dan pembagian menggunakan operator aritmatika. Outputnya berupa Hasil dari setiap perhitungan tsb menggunakan cout.
@@ -313,7 +313,7 @@ int main() {
 
 ##### Output 2
 
-![Screenshot Output Unguided 2_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/modul1/output/output2.png)
+![Screenshot Output Unguided 2_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul1/output/output2.png)
 
 
 Program ini digunakan untuk mengubah angka dari 0 sampai 100 menjadi bentuk kalimat. Input berupa angka menggunakan cin. fungsi satuan() dan switch dipakai untuk mengubah angka satuan menjadi kata, seperti 1 menjadi "satu" dan 2 menjadi "dua". if-else dipakai untuk menentukan bentuk kata berdasarkan angka yang di input. Jika angka kurang dari 0 atau lebih dari 100, output berupa "Angka di luar jangkauan". Untuk angka 0, 10, 11, dan 100, program memiliki kondisi khusus. Angka belasan dan puluhan menggunakan pembagian (/) dan sisa bagi (%) agar hasil kalimat sesuai.
