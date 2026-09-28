@@ -11,20 +11,26 @@ Code::Blocks adalah aplikasi yang digunakan untuk menulis, mengompilasi, dan men
 Bagian ini membahas pengenalan Code::Blocks sebagai aplikasi untuk membuat dan menjalankan program serta dasar-dasar bahasa C++.
 
 #### 1. Code::Blocks IDE
+Digunakan untuk menulis, mengompilasi, dan menjalankan program. Fitur editor, build, dan run memudahkan proses pembuatan program.
 
 #### 2. Struktur Dasar dan Tipe Data C++
+Program C++ memiliki struktur dasar seperti #include, deklarasi variabel, dan fungsi main(), serta tipe data seperti int, char, float, dan double.
 
 #### 3. Variabel dan Input/Output
+Dalam C++, cin digunakan untuk menerima masukan, sedangkan cout untuk menampilkan hasil. endl dan \n digunakan untuk membuat baris baru.
 
 ### B. Operator dan Struktur Kendali dalam C++<br/>
 
 Bagian ini membahas penggunaan operator dan struktur kendali yang digunakan untuk mengolah data serta mengatur jalannya program.
 
 #### 1. Operator dalam C++
+Digunakan untuk melakukan operasi pada data, seperti perhitungan, pemberian nilai, dan pemeriksaan kondisi.
 
 #### 2. Kondisional dan Perulangan
+Kondisional seperti if, if-else, dan switch digunakan untuk menentukan perintah berdasarkan kondisi. Sedangkan for, while, dan do-while digunakan untuk menjalankan perintah secara berulang.
 
 #### 3. Struktur dan Blok Program
+struct digunakan untuk mengelompokkan beberapa variabel, sedangkan fungsi digunakan untuk mengelompokkan perintah berdasarkan tugasnya agar program lebih teratur.
 
 ## Guided
 
