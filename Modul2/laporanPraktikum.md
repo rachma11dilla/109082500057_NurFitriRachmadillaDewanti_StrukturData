@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 2 - Array, Pointer, Fungsi/Prosedur, dan Parameter</h1>
+# <h1 align="center">Laporan Praktikum Modul 2 - Array, Pointer, Fungsi, Prosedur, dan Parameter</h1>
 
 <p align="center">Nur Fitri Rachmadilla Dewanti - 109082500057</p>
 
