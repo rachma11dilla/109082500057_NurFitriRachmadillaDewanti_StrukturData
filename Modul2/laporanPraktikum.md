@@ -437,7 +437,7 @@ int main() {
 ![Screenshot Output Unguided 3_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul2/output/soal3_1.png)
 ![Screenshot Output Unguided 3_2](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul2/output/soal3_2.png)
 
-Program ini digunakan untuk mencari nilai maksimum, minimum, dan rata-rata dari sebuah array. Array sudah ada di kode yaitu (48, 2, 7, 21, 5, 20, 77, 9, 10, 1). Kemudian, program akan mencari nilai maksimum dan minumum menggunakan fungsi, dan menghitung rata0rata menggunakan prosedur. User bisa memilih menu sesuai perhitungan yang di inginkan.
+Program ini digunakan untuk mencari nilai maksimum, minimum, dan rata-rata dari sebuah array. Array sudah ada di kode yaitu (48, 2, 7, 21, 5, 20, 77, 9, 10, 1). Kemudian, program akan mencari nilai maksimum dan minumum menggunakan fungsi, dan menghitung rata-rata menggunakan prosedur. User bisa memilih menu sesuai perhitungan yang di inginkan.
 
 ## Kesimpulan
 
