@@ -4,7 +4,7 @@
 
 ## Dasar Teori
 
-Modul 2 membahas beberapa konsep dalam bahasa C++ yang digunakan untuk mengolah dan mengatur data dalam program. Materi yang dibahas meliputi array, pointer dan alamat memori, hubungan pointer dengan array dan string, fungsi, prosedur, serta cara melewatkan parameter menggunakan call by value, call by pointer, dan call by reference.
+Modul 2 membahas beberapa konsep dalam bahasa C++ yang digunakan untuk mengolah data dalam program. Materi yang dibahas yaitu array, pointer dan alamat memori, pointer dengan array dan string, fungsi, prosedur, serta parameter menggunakan call by value, call by pointer, dan call by reference.
 
 
 ### A. Array dalam C++<br/>
