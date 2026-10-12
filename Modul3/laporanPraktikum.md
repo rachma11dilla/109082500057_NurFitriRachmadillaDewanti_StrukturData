@@ -238,7 +238,7 @@ int main() {
 ##### Output 1
 
 ![Screenshot Output Unguided 1_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul3/output/soal1_1.png)
-![Screenshot Output Unguided 1_1](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul3/output/soal1_2.png)
+![Screenshot Output Unguided 1_2](https://github.com/rachma11dilla/109082500057_NurFitriRachmadillaDewanti_StrukturData/blob/main/Modul3/output/soal1_2.png)
 
 
 Program ini digunakan untuk menyimpan data maksimal 10 mahasiswa ke dalam array, seperti nama, NIM, nilai UTS, nilai UAS, nilai tugas, dan nilai akhir.
