@@ -23,7 +23,7 @@ Operasi dasar ADT adalah operasi yang digunakan untuk mengolah data, seperti mem
 Bagian ini membahas beberapa operasi yang digunakan untuk mengelola data dalam ADT.
 
 #### 1. Konstruktor atau Kreator
-Konstruktor/Kreator untuk membuat data baru
+Konstruktor/Kreator untuk membuat data baru.
 
 #### 2. Selector
 Selector digunakan untuk mengambil atau melihat nilai data.
@@ -38,7 +38,7 @@ Validator digunakan untuk memeriksa apakah data sesuai aturan.
 Destruktor atau dealokator digunakan untuk menghapus objek dan membebaskan memorinya.
 
 #### 6. Operasi Input dan Output
-Operasi input digunakan untuk menerima mmasukan dan menampilkan hasil.
+Operasi input digunakan untuk menerima masukan dan menampilkan hasil.
 
 #### 7. Operator Relasional dan Aritmatika
 Operator relasional digunakan untuk membandingkan dua nilai. Operator aritmatika digunakan untuk melakukan perhitungan, seperti penjumlahan, pengurangan, perkalian, dan pembagian.
