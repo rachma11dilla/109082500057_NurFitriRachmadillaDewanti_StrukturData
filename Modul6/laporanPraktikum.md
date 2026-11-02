@@ -7,7 +7,7 @@
 Modul 6 membahas tentang Doubly Linked List (Bagian Pertama). Materi ini membahas struktur linked list yang setiap elemennya memiliki dua pointer, yaitu untuk menunjuk elemen sebelumnya dan elemen sesudahnya.
 
 
-### A. SDoubly Linked List<br/>
+### A. Doubly Linked List<br/>
 
 Doubly Linked List adalah linked list yang setiap elemennya memiliki dua pointer, yaitu next dan prev.
 
@@ -953,9 +953,9 @@ int main() {
 
 
 Program ini menggunakan tiga file, yaitu Doublylist.h, Doublylist.cpp, dan main.cpp.
-File Doublylist.h berisi deklarasi struktur data kendaraan dan fungsi-fungsi yang digunakan dalam Doubly Linked List.
-File Doublylist.cpp berisi implementasi fungsi untuk membuat list, menambah data, menampilkan data, mencari data, dan menghapus elemen.
-File main.cpp merupakan program utama. Program digunakan untuk memasukkan data kendaraan, mengecek nomor polisi yang duplikat, mencari kendaraan dengan nomor polisi tertentu, dan menghapus data kendaraan yang dipilih.
+1. File Doublylist.h berisi deklarasi struktur data kendaraan dan fungsi-fungsi yang digunakan dalam Doubly Linked List.
+2. File Doublylist.cpp berisi implementasi fungsi untuk membuat list, menambah data, menampilkan data, mencari data, dan menghapus elemen.
+3. File main.cpp merupakan program utama. Program digunakan untuk memasukkan data kendaraan, mengecek nomor polisi yang duplikat, mencari kendaraan dengan nomor polisi tertentu, dan menghapus data kendaraan yang dipilih.
 
 
 ## Kesimpulan
