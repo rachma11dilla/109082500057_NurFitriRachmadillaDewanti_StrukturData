@@ -37,7 +37,7 @@ Stack dapat dibuat menggunakan array yang memiliki jumlah penyimpanan terbatas.
 Array yang digunakan untuk menyimpan elemen atau data di dalam stack.
 
 #### 2. Top
-Digunakan untuk menunjukkan jumlah elemen atau posisi teratas dalam stack. Jika Top bernilai 0, berarti stack masih kosong.
+Digunakan untuk menunjukkan jumlah elemen atau posisi teratas dalam stack.
 
 #### 3. Push dan Pop
 Pada representasi array, Push menambahkan nilai Top, sedangkan Pop mengurangi nilai Top setelah mengambil data paling atas.
@@ -732,12 +732,12 @@ Program ini menggunakan tiga file, yaitu stack.h, stack.cpp, dan main.cpp.
 
 Latihan 1: Fungsi balikStack() untuk membalik urutan data dalam stack.
 Latihan 2: Fungsi pushAscending() untuk memasukkan angka secara berurutan dari yang terkecil hingga terbesar.
-Latihan 3: Fungsi getInputStream() untuk membaca angka yang diinput sampai menekan enter.
+Latihan 3: Fungsi getInputStream() untuk membaca karakter angka yang dimasukkan pengguna satu per satu sampai menekan enter.
 
 
 ## Kesimpulan
 
-Berdasarkan praktikum Modul 7, saya belajar tentang Stack dalam bahasa C++. Saya memahami prinsip LIFO (Last In First Out), fungsi Top, Push untuk menambahkan data dan Pop untuk mengambil data. Saya juga belajar membuat Stack menggunakan array dan node (pointer), dan menggunakan fungsi untuk mengubah, menampilkan, dan mencari data di dalam Stack.
+Berdasarkan praktikum Modul 7, saya belajar tentang Stack dalam bahasa C++. Saya memahami prinsip LIFO (Last In First Out), fungsi Top, Push untuk menambahkan data, dan Pop untuk mengambil data. Saya juga belajar membuat Stack menggunakan array dan node (pointer), dan menggunakan fungsi untuk mengubah, menampilkan, dan mencari data di dalam Stack.
 
 
 ## Referensi
