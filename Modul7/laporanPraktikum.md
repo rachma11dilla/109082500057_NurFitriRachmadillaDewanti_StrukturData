@@ -732,7 +732,7 @@ Program ini menggunakan tiga file, yaitu stack.h, stack.cpp, dan main.cpp.
 
 Latihan 1: Fungsi balikStack() untuk membalik urutan data dalam stack.
 Latihan 2: Fungsi pushAscending() untuk memasukkan angka secara berurutan dari yang terkecil hingga terbesar.
-Latihan 3: Fungsi getInputStream() untuk membaca karakter angka yang dimasukkan pengguna satu per satu sampai menekan enter.
+Latihan 3: Fungsi getInputStream() untuk membaca karakter angka yang diinput satu per satu sampai menekan enter.
 
 
 ## Kesimpulan
